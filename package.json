@@ -1,0 +1,15 @@
+{
+  "name": "alexa1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-app": "^4.2.3",
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
